@@ -1,0 +1,18 @@
+{
+  "name": "repl-callback",
+  "version": "0.1.0",
+  "description": "A handy callback to use from the REPL console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Schoonology/node-repl-callback.git"
+  },
+  "author": {
+    "name": "Michael Schoonmaker",
+    "email": "michael.r.schoonmaker@gmail.com"
+  },
+  "license": "MIT"
+}
