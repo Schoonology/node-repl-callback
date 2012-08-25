@@ -1,7 +1,6 @@
-node-repl-callback
-==================
+# node-repl-callback
 
-A really handy callback to use from the REPL console.
+A really handy callback to use from the REPL console, _and only from the REPL console_. There is _no reason_ to use this callback within the logic of an application.
 
 ## Installation
 
